@@ -14,3 +14,13 @@ Refer the doc to understand the flow
 
 - [@rajat12rm](https://github.com/rajat12rm)
 
+
+## Installation
+
+Install requirements using python3 and pip3
+
+```bash
+  pip3 install -r requirement.txt
+```
+    
+You will need OpenAI API Key from - [OpenAI](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openai.com/&ved=2ahUKEwioybWBwfeFAxXg-aACHSvoBE0QFnoECBoQAQ&usg=AOvVaw0428uXC88P9g34t6DemBOv)
